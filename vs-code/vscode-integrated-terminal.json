@@ -1,0 +1,28 @@
+{
+	"terminal.integrated.cursorBlinking": true,
+	"terminal.integrated.drawBoldTextInBrightColors": true,
+
+	"workbench.colorCustomizations": {
+		"terminal.ansiBlack": "#181521",
+		"terminal.ansiBrightBlack": "#181521",
+		"terminal.ansiBlue": "#6d77b3",
+		"terminal.ansiBrightBlue": "#36f9f6",
+		"terminal.ansiCyan": "#ff0000",
+		"terminal.ansiBrightCyan": "#f92aad",
+		"terminal.ansiGreen": "#72f1b8",
+		"terminal.ansiBrightGreen": "72f1b8",
+		"terminal.ansiMagenta": "#c792ea",
+		"terminal.ansiBrightMagenta": "#e1acff",
+		"terminal.ansiRed": "#f97e72",
+		"terminal.ansiBrightRed": "#f88414",
+		"terminal.ansiWhite": "#fefefe",
+		"terminal.ansiBrightWhite": "#fefefe",
+		"terminal.ansiYellow": "#fede5d",
+		"terminal.ansiBrightYellow": "#fff951",
+		"terminal.background": "#2a2139",
+		"terminal.foreground": "#f0eff1",
+		"terminal.selectionBackground": "#181521",
+		"terminalCursor.background": "#191919",
+		"terminalCursor.foreground": "#72f1b8"
+	}
+}
