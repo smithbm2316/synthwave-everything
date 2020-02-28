@@ -1,6 +1,7 @@
 # Synthwave Everything
 
 ![Photo from James White's Outrun Series](./assets/synthwave.jpg)
+<sub> [Photo from James White's Outrun Series](https://signalnoise.com/outrun-series) </sub>
 
 ## What is Synthwave Everything?
 
