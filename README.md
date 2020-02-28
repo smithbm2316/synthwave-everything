@@ -4,7 +4,7 @@
 
 ## What is Synthwave Everything?
 
-Synthwave Everything is a repository dedicated to housing anything that pertains to synthwave-ifying your life! I'm a big fan of [@robb0wen](https://github.com/robb0wen/)'s VS Code theme called [Synthwave '84](https://github.com/robb0wen/synthwave-vscode/) and a big fan of the retrowave genre of music. All of these things have led me to a slightly unhealthy obsession of the look, feel, and sound of all things synthwave. So, I decided to try and make everything that I possibly could (that pertains to my dev environment or any tech in general) look and feel like it fits in with the synthwave aesthetic and sound.
+Synthwave Everything is a repository dedicated to housing anything that pertains to synthwave-ifying your life! It's my ongoing project of changing everything that I have into having some sort of synthwave-themed look, feel, or sound. I'm a big fan of [@robb0wen](https://github.com/robb0wen/)'s VS Code theme called [Synthwave '84](https://github.com/robb0wen/synthwave-vscode/) and a big fan of the retrowave genre of music. All of these things have led me to a slightly unhealthy obsession of the look, feel, and sound of all things synthwave. So, I decided to try and make everything that I possibly could (that pertains to my dev environment or any tech in general) look and feel like it fits in with the synthwave aesthetic and sound.
 
 ## What is available in this repo?
 

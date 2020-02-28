@@ -2,7 +2,7 @@
 
 ## How to Install
 
-- Copy the lines of JSON customizations from **vscode-integrated-terminal.json**
+- Copy the lines of JSON customizations from _synthwave-everything.json_
 - Open up VS Code
 - Press "**CMD + Shift + P**" to open the _Command Palette_
 - Type in "Preferences: Open Settings (JSON)" and hit enter once it shows in the palette
