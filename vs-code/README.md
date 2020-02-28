@@ -1,5 +1,7 @@
 # Synthwave Theme for VS Code Integrated Terminal
 
+![VS Code Theme Screenshot](../assets/vscode-screenshot.png)
+
 ## How to Install
 
 - Copy the lines of JSON customizations from _synthwave-everything.json_

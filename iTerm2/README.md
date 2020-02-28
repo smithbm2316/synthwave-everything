@@ -1,5 +1,7 @@
 # Synthwave iTerm2 Theme
 
+![iTerm2 Theme Screenshot](../assets/iTerm2-screenshot.png)
+
 ## How to Install
 
 - Download the _synthwave-everything.itermcolors_ file

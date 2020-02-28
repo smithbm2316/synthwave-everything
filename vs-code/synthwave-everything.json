@@ -3,8 +3,8 @@
 	"terminal.integrated.drawBoldTextInBrightColors": true,
 
 	"workbench.colorCustomizations": {
-		"terminal.ansiBlack": "#181521",
-		"terminal.ansiBrightBlack": "#181521",
+		"terminal.ansiBlack": "#fefefe",
+		"terminal.ansiBrightBlack": "#fefefe",
 		"terminal.ansiBlue": "#6d77b3",
 		"terminal.ansiBrightBlue": "#36f9f6",
 		"terminal.ansiCyan": "#ff0000",
