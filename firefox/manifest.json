@@ -1,0 +1,42 @@
+{
+	"manifest_version": 2,
+	"version": "1.0",
+	"name": "Synthwave Everything",
+	"description": "A synthwave style theme for your browser to take you back to 1989",
+	"homepage_url": "https://github.com/smithbm2316/synthwave-everything/firefox/theme",
+	"theme": {
+		"colors": {
+			"bookmark_text": "#f0eff1",
+			"button_background_active": "#4e3d69",
+			"button_background_hover": "#4e3d69",
+			"icons": "#f772e0",
+			"icons_attention": "#fede5d",
+			"frame": "#231b30",
+			"frame_inactive": "#382f47",
+			"ntp_background": "#382f47",
+			"ntp_text": "#f0eff1",
+			"popup": "#2a2139",
+			"popup_highlight": "#9d92af93",
+			"popup_highlight_text": "#f0eff1",
+			"popup_text": "#f0eff1",
+			"sidebar": "#382f47",
+			"sidebar_highlight": "#9d92af93",
+			"sidebar_highlight_text": "#f0eff1",
+			"sidebar_text": "#f0eff1",
+			"tab_background_separator": "#231b30",
+			"tab_background_text": "#cacaca",
+			"tab_line": "#f92aad",
+			"tab_loading": "#e1acff",
+			"tab_selected": "#2a2139",
+			"tab_text": "#fff8f8",
+			"toolbar": "#2a2139",
+			"toolbar_bottom_separator": "#f772e0",
+			"toolbar_field": "#382f47",
+			"toolbar_field_border_focus": "#6d77b3",
+			"toolbar_field_highlight": "#9d92af93",
+			"toolbar_field_highlight_text": "#f0eff1",
+			"toolbar_field_text": "#f0eff1",
+			"toolbar_text": "#f0eff1"
+		}
+	}
+}

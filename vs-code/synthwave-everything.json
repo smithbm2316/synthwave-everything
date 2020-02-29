@@ -3,11 +3,11 @@
 	"terminal.integrated.drawBoldTextInBrightColors": true,
 
 	"workbench.colorCustomizations": {
-		"terminal.ansiBlack": "#fefefe",
+		"terminal.ansiBlack": "#171521",
 		"terminal.ansiBrightBlack": "#fefefe",
 		"terminal.ansiBlue": "#6d77b3",
 		"terminal.ansiBrightBlue": "#36f9f6",
-		"terminal.ansiCyan": "#ff0000",
+		"terminal.ansiCyan": "#f772e0",
 		"terminal.ansiBrightCyan": "#f92aad",
 		"terminal.ansiGreen": "#72f1b8",
 		"terminal.ansiBrightGreen": "72f1b8",
@@ -22,7 +22,7 @@
 		"terminal.background": "#2a2139",
 		"terminal.foreground": "#f0eff1",
 		"terminal.selectionBackground": "#181521",
-		"terminalCursor.background": "#191919",
+		"terminalCursor.background": "#171521",
 		"terminalCursor.foreground": "#72f1b8"
 	}
 }
