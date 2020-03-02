@@ -10,7 +10,7 @@
 		"terminal.ansiCyan": "#f772e0",
 		"terminal.ansiBrightCyan": "#f92aad",
 		"terminal.ansiGreen": "#72f1b8",
-		"terminal.ansiBrightGreen": "72f1b8",
+		"terminal.ansiBrightGreen": "#72f1b8",
 		"terminal.ansiMagenta": "#c792ea",
 		"terminal.ansiBrightMagenta": "#e1acff",
 		"terminal.ansiRed": "#f97e72",
